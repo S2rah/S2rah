@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @S2rah
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning translation
+
